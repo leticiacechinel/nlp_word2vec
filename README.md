@@ -1,9 +1,9 @@
 # Previsão de Próxima Palavra com Word2Vec e RNN
 ## Este repositório contém uma implementação completa de um pipeline para:
 
-1 - Pré-processamento de texto.
-2 - Treinamento de embeddings de palavras utilizando Word2Vec com a biblioteca Gensim.
-3 - Construção e treinamento de um modelo de RNN com TensorFlow/Keras para prever a próxima palavra em uma sequência de texto.
+1.  Pré-processamento de texto.
+2.  Treinamento de embeddings de palavras utilizando Word2Vec com a biblioteca Gensim.
+3.  Construção e treinamento de um modelo de RNN com TensorFlow/Keras para prever a próxima palavra em uma sequência de texto.
 
 ## Recursos
 ### Linguagem: Python 3.x.
